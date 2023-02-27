@@ -1,2 +1,3 @@
 # mlp-lstm-model-for-traffic-accident-prediction
-nrf research
+
+살려주세요 끼잉끼잉
